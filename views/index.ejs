@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="<%= description %>">
+
+    <title><%= title + ' - ' + process.env.NAME %></title>
+    <link rel="stylesheet" href="/style.css">
+    <link rel="stylesheet" href="/bootstrap.min.css">
+    <script src="/script.js"></script>
+  </head>
+  <body style="background: #171712;">
+    <content>
+    <%- include('./partials/navbar') %>
+    <h1 class="text-white top mart mt-4"><%= title %></h1>
+    <h5 class="top marti desc"><%= description %></h5>
+    <br><br><br>
+    <post>    
+      <%- post %>
+      <!-- <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> -->
+      <%- include('./partials/external') %>
+    </post>
+    </content>
+  </body>
+</html>
