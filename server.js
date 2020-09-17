@@ -5,7 +5,7 @@ const bodyParser = require('body-parser');
 const matter = require('gray-matter');
 const hljs = require('highlight.js');
 const mdih = require('markdown-it-highlight');
-const md = require('markdown-it')({ html: true, ejs: true })
+const md = require('markdown-it')({ html: true })
 const ejs = require('ejs');
 
 app.use(express.static('public'));
