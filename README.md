@@ -1,5 +1,7 @@
 # Indonesia
 
+- Pergi ke .env > Edit Variable NAME > Beri Value nama-project-mu
+
 1. Remix project di [Glitch](https://glitch.com/edit/#!/md-project) atau clone Repo ini
 2. Kalo mau buat artikel di views/markdown
 3. Kalo mau ubah sistem nya di server.js
@@ -13,6 +15,8 @@
 # INGAT INI HANYA STARTER PACK
 ---
 # English
+
+- Go to .env > Edit Variable NAME > Give Value name-of-your-project
 
 1. Remix my Project on [Glitch](https://glitch.com/edit/#!/md-project) or clone this Repo
 2. If you want to create an article on views/markdown
