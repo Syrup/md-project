@@ -23,7 +23,7 @@
 3. If you want to change the system in server.js
 4. If you want to change the appearance of the html page in views/index.ejs
 5. If you want to change it like css, javascript is public/
-6. If you want to add a partials/component to views/part. You just use it by adding a line of this code `<% - include ('./ partials / component-name')%>`
+6. If you want to add a partials/component to views/part. You just use it by adding a line of this code `<% - include ('./partials/component-name')%>`
 7. Btw if you want to make partials/component, the format must be `.ejs`
 
 > if you want more, just add it yourself
