@@ -29,3 +29,16 @@
 > if you want more, just add it yourself
 
 # THIS IS JUST A STARTER PACK
+
+---
+Emoji Format:
+1. :cry: = `:cry: `
+2. :wink: = `:wink:`
+3. :-) = `:-)`
+4. :laughing: = `:laughing:`
+5. :yum: = `:yum:`
+6. :-( = `:-(`
+7. 8-) = `8-)`
+8. ;) = `;)`
+
+> Full Emoji Format in: [Github](https://gist.github.com/rxaviers/7360908)

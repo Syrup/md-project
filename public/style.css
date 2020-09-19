@@ -1,6 +1,15 @@
+:root {
+  --bg: #171712;
+}
+
 * {
   box-sizing: border-box;
  
+}
+
+#darkmode {
+  background-color: #171712;
+  color: black;
 }
 
 body content {
@@ -28,4 +37,12 @@ body content {
 
 post {
   text-indent: 30px;
+}
+
+.notFound {
+  color: white;
+}
+
+.notFoundBody {
+  background-color: var(--bg)
 }
