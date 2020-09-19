@@ -4,22 +4,21 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="<%= description %>">
+    <meta name="description" content="<%= desc %>">
 
     <title><%= title + ' - ' + process.env.NAME %></title>
     <link rel="stylesheet" href="/style.css">
     <link rel="stylesheet" href="/bootstrap.min.css">
     <script src="/script.js"></script>
   </head>
-  <body style="background: #171712;">
+  <body id="darkmode">
     <content>
     <%- include('./partials/navbar') %>
     <h1 class="text-white top mart mt-4"><%= title %></h1>
-    <h5 class="top marti desc"><%= description %></h5>
+    <h5 class="top marti desc"><%= desc %></h5>
     <br><br><br>
     <post>    
       <%- post %>
-      <!-- <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> -->
       <%- include('./partials/external') %>
     </post>
     </content>

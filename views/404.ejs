@@ -6,13 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="A cool thing made with Glitch">
 
-    <title><% title %></title>
+    <title><%= statusCode %></title>
     <link rel="stylesheet" href="/style.css">
     <link rel="stylesheet" href="/bootstrap.min.css">
     <script src="/script.js" defer></script>
   </head>
-  <body>
-    <h1>404 Not Found</h1>
+  <body class="notFoundBody">
+    <h1 class="notFound">404 Not Found</h1>
     <%- include('./partials/external') %>
   </body>
 </html>
