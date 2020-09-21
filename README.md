@@ -3,9 +3,13 @@
 # ADA KENDALA PADA GLITCH JADI SEMENTARA IMPORT REPO INI KE GLITCH
 ### Cara import repo ke glitch 
 ![Step 1](https://cdn.glitch.com/d98dcd9f-9f69-4cce-8387-02125b8d692e%2Fstep-1.PNG?v=1600681227718)
+
 ![Step 2](https://cdn.glitch.com/d98dcd9f-9f69-4cce-8387-02125b8d692e%2Fstep-2.PNG?v=1600681231985)
+
 ![Step 3](https://cdn.glitch.com/d98dcd9f-9f69-4cce-8387-02125b8d692e%2Fstep-3.PNG?v=1600681236679)
+
 ![Step 4](https://cdn.glitch.com/d98dcd9f-9f69-4cce-8387-02125b8d692e%2FScreenshot%20(38).png?v=1600681258555)
+
 ![Step 5](https://cdn.glitch.com/d98dcd9f-9f69-4cce-8387-02125b8d692e%2FScreenshot%20(39).png?v=1600681264200)
 
 
@@ -24,6 +28,17 @@
 # INGAT INI HANYA STARTER PACK
 ---
 # English
+# THERE ARE CONSTRAINTS ON THE GLITCH WHILE IMPORTING THIS REPO TO GLITCH
+### How to import repo to glitch
+![Step 1](https://cdn.glitch.com/d98dcd9f-9f69-4cce-8387-02125b8d692e%2Fstep-1.PNG?v=1600681227718)
+
+![Step 2](https://cdn.glitch.com/d98dcd9f-9f69-4cce-8387-02125b8d692e%2Fstep-2.PNG?v=1600681231985)
+
+![Step 3](https://cdn.glitch.com/d98dcd9f-9f69-4cce-8387-02125b8d692e%2Fstep-3.PNG?v=1600681236679)
+
+![Step 4](https://cdn.glitch.com/d98dcd9f-9f69-4cce-8387-02125b8d692e%2FScreenshot%20(38).png?v=1600681258555)
+
+![Step 5](https://cdn.glitch.com/d98dcd9f-9f69-4cce-8387-02125b8d692e%2FScreenshot%20(39).png?v=1600681264200)
 
 - Go to .env > Edit Variable NAME > Give Value name-of-your-project
 
